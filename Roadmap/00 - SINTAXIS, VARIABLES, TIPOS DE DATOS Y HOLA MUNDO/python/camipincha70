@@ -1,0 +1,26 @@
+#https://python.org
+# Comentario en una linea
+""" 
+esto tambien   #las variables pueden tener clauqier nombre
+son varias lineas
+"""
+# variable en phyton
+my_variable = _"
+my_variable = "nuevo valor de mi variable"
+my constant #por convencion (explicacion de constante y que no existe en el leguaje phyton
+int = 1 
+float = 1.000000000000000000000001
+bulleano = falso
+bulleano = verdadero
+string = "mi cadena de texto"
+string = " mi otra cadenad de texto
+# todos los tipos de datos primitivos
+print ("¡Hola, phyton!")
+
+
+
+
+
+
+
+
